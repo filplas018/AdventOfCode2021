@@ -1,0 +1,15 @@
+D:\Projekty\Visual_Studio_2022\Advent\Advent\bin\Debug\net6.0\Advent.exe
+D:\Projekty\Visual_Studio_2022\Advent\Advent\bin\Debug\net6.0\Advent.deps.json
+D:\Projekty\Visual_Studio_2022\Advent\Advent\bin\Debug\net6.0\Advent.runtimeconfig.json
+D:\Projekty\Visual_Studio_2022\Advent\Advent\bin\Debug\net6.0\Advent.dll
+D:\Projekty\Visual_Studio_2022\Advent\Advent\bin\Debug\net6.0\ref\Advent.dll
+D:\Projekty\Visual_Studio_2022\Advent\Advent\bin\Debug\net6.0\Advent.pdb
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.csproj.AssemblyReference.cache
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.AssemblyInfoInputs.cache
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.AssemblyInfo.cs
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.csproj.CoreCompileInputs.cache
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.dll
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\ref\Advent.dll
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.pdb
+D:\Projekty\Visual_Studio_2022\Advent\Advent\obj\Debug\net6.0\Advent.genruntimeconfig.cache

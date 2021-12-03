@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projekty\\Visual_Studio_2022\\AdventOfCode_2021\\AdventOfCode_day3\\AdventOfCode_day3\\AdventOfCode_day3.csproj": {}
+    "D:\\Projekty\\Visual_Studio_2022\\Advent\\Advent\\Advent.csproj": {}
   },
   "projects": {
-    "D:\\Projekty\\Visual_Studio_2022\\AdventOfCode_2021\\AdventOfCode_day3\\AdventOfCode_day3\\AdventOfCode_day3.csproj": {
+    "D:\\Projekty\\Visual_Studio_2022\\Advent\\Advent\\Advent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekty\\Visual_Studio_2022\\AdventOfCode_2021\\AdventOfCode_day3\\AdventOfCode_day3\\AdventOfCode_day3.csproj",
-        "projectName": "AdventOfCode_day3",
-        "projectPath": "D:\\Projekty\\Visual_Studio_2022\\AdventOfCode_2021\\AdventOfCode_day3\\AdventOfCode_day3\\AdventOfCode_day3.csproj",
+        "projectUniqueName": "D:\\Projekty\\Visual_Studio_2022\\Advent\\Advent\\Advent.csproj",
+        "projectName": "Advent",
+        "projectPath": "D:\\Projekty\\Visual_Studio_2022\\Advent\\Advent\\Advent.csproj",
         "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekty\\Visual_Studio_2022\\AdventOfCode_2021\\AdventOfCode_day3\\AdventOfCode_day3\\obj\\",
+        "outputPath": "D:\\Projekty\\Visual_Studio_2022\\Advent\\Advent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

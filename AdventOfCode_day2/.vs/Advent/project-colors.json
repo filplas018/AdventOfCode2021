@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee59b2bd-0162-4b94-b1f8-9214ddd78820": {
+      "ProjectGuid": "ee59b2bd-0162-4b94-b1f8-9214ddd78820",
+      "DisplayName": "Advent",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

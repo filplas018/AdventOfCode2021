@@ -1,10 +1,10 @@
 is_global = true
-build_property.TargetFramework = net5.0
+build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = AdventOfCode_day3
-build_property.ProjectDir = D:\Projekty\Visual_Studio_2022\AdventOfCode_2021\AdventOfCode_day3\AdventOfCode_day3\
+build_property.RootNamespace = Advent
+build_property.ProjectDir = D:\Projekty\Visual_Studio_2022\AdventOfCode_2021\AdventOfCode_day2\Advent\
