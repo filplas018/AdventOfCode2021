@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba453323-c5de-49b2-9632-66e25c6e1bfd": {
+      "ProjectGuid": "ba453323-c5de-49b2-9632-66e25c6e1bfd",
+      "DisplayName": "AdventOfCode_day3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
